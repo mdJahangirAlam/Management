@@ -1,0 +1,16 @@
+E:\C#\mass\mass\bin\Debug\mass.exe.config
+E:\C#\mass\mass\bin\Debug\mass.exe
+E:\C#\mass\mass\bin\Debug\mass.pdb
+E:\C#\mass\mass\obj\Debug\mass.csprojResolveAssemblyReference.cache
+E:\C#\mass\mass\obj\Debug\mass.Properties.Resources.resources
+E:\C#\mass\mass\obj\Debug\mass.csproj.GenerateResource.cache
+E:\C#\mass\mass\obj\Debug\mass.csproj.CoreCompileInputs.cache
+E:\C#\mass\mass\obj\Debug\mass.exe
+E:\C#\mass\mass\obj\Debug\mass.pdb
+E:\C#\mass\mass\obj\Debug\mass.create.resources
+E:\C#\mass\mass\obj\Debug\mass.home.resources
+E:\C#\mass\mass\obj\Debug\mass.login.resources
+E:\C#\mass\mass\bin\Debug\mass.exe.manifest
+E:\C#\mass\mass\bin\Debug\mass.application
+E:\C#\mass\mass\obj\Debug\mass.exe.manifest
+E:\C#\mass\mass\obj\Debug\mass.application
